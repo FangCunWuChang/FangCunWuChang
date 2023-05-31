@@ -14,11 +14,11 @@
 <image src ="https://komarev.com/ghpvc/?username=FangCunWuChang&style=for-the-badge&color=da69ac" width="170" height="36"/>
 
 ## Recommend Repos  
-[![LUCE-cpp](https://github-readme-stats.vercel.app/api/pin/?username=FangCunWuChang&repo=LUCE-cpp&theme=omni)](https://github.com/FangCunWuChang/LUCE-cpp)
-[![JMADF](https://github-readme-stats.vercel.app/api/pin/?username=FangCunWuChang&repo=JMADF&theme=omni)](https://github.com/FangCunWuChang/JMADF)  
+[![LUCE-cpp](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=FangCunWuChang&repo=LUCE-cpp&theme=omni)](https://github.com/FangCunWuChang/LUCE-cpp)
+[![JMADF](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=FangCunWuChang&repo=JMADF&theme=omni)](https://github.com/FangCunWuChang/JMADF)  
 
 ## About Me  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FangCunWuChang&layout=compact&theme=omni"/>
+<img align="right" src="https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/top-langs/?username=FangCunWuChang&layout=compact&theme=omni"/>
 
 - 🔭 I’m currently working on LUCE, which is a framework can encapsulate C++ classes for Lua.  
 - 🌱 I’m currently learning C++ and Lua.  
@@ -27,7 +27,7 @@
 - 📫 How to reach me: 3142324836@qq.com    [https://space.bilibili.com/161161623](https://space.bilibili.com/161161623)  
 
 <br><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=FangCunWuChang&count_private=true&show_icons=true&theme=omni"/>
+<img align="left" src="https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api?username=FangCunWuChang&count_private=true&show_icons=true&theme=omni"/>
 <p align="center">
    <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
