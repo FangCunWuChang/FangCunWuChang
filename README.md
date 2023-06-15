@@ -14,7 +14,8 @@
 <image src ="https://komarev.com/ghpvc/?username=FangCunWuChang&style=for-the-badge&color=da69ac" width="170" height="36"/>
 
 ## Recommend Repos  
-[![LUCE-cpp](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=FangCunWuChang&repo=LUCE-cpp&theme=omni)](https://github.com/FangCunWuChang/LUCE-cpp)
+[![VocalShaper](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=Do-sth-sharp&repo=VocalShaper&theme=omni)](https://github.com/Do-sth-sharp/VocalShaper)
+[![LUCE-cpp](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=FangCunWuChang&repo=LUCE-cpp&theme=omni)](https://github.com/FangCunWuChang/LUCE-cpp)  
 [![JMADF](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=FangCunWuChang&repo=JMADF&theme=omni)](https://github.com/FangCunWuChang/JMADF)  
 
 ## About Me  
