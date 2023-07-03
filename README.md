@@ -16,7 +16,8 @@
 ## Recommend Repos  
 [![VocalShaper](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=Do-sth-sharp&repo=VocalShaper&theme=omni)](https://github.com/Do-sth-sharp/VocalShaper)
 [![LUCE-cpp](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=FangCunWuChang&repo=LUCE-cpp&theme=omni)](https://github.com/FangCunWuChang/LUCE-cpp)  
-[![JMADF](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=FangCunWuChang&repo=JMADF&theme=omni)](https://github.com/FangCunWuChang/JMADF)  
+[![JMADF](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=FangCunWuChang&repo=JMADF&theme=omni)](https://github.com/FangCunWuChang/JMADF)
+[![libMackieControl](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=Do-sth-sharp&repo=libMackieControl&theme=omni)](https://github.com/Do-sth-sharp/libMackieControl)  
 
 ## About Me  
 <img align="right" src="https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/top-langs/?username=FangCunWuChang&layout=compact&theme=omni"/>
