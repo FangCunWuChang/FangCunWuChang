@@ -14,9 +14,9 @@
 <image src ="https://komarev.com/ghpvc/?username=FangCunWuChang&style=for-the-badge&color=da69ac" width="170" height="36"/>
 
 ## Recommend Repos  
-[![VocalShaper](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=Do-sth-sharp&repo=VocalShaper&theme=omni)](https://github.com/Do-sth-sharp/VocalShaper)
-[![LUCE-cpp](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=FangCunWuChang&repo=LUCE-cpp&theme=omni)](https://github.com/FangCunWuChang/LUCE-cpp)  
-[![JMADF](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=FangCunWuChang&repo=JMADF&theme=omni)](https://github.com/FangCunWuChang/JMADF)
+[![VocaValley.github.io](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=VocaValley&repo=VocaValley.github.io&theme=omni)](https://github.com/VocaValley/VocaValley.github.io)
+[![VocalShaper](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=Do-sth-sharp&repo=VocalShaper&theme=omni)](https://github.com/Do-sth-sharp/VocalShaper)  
+[![FlowUI](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=FangCunWuChang&repo=FlowUI&theme=omni)](https://github.com/FangCunWuChang/FlowUI)
 [![libMackieControl](https://github-readme-stats-warsicwuchang-gmailcom.vercel.app/api/pin/?username=Do-sth-sharp&repo=libMackieControl&theme=omni)](https://github.com/Do-sth-sharp/libMackieControl)  
 
 ## About Me  
