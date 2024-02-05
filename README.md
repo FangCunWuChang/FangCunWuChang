@@ -1,16 +1,16 @@
 # Hello Github  φ(゜▽゜*)♪❤️  
 
-[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/built-with-love.svg)](https://github.com/BraveUX/for-the-badge/)
-[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/contains-cat-gifs.svg)](https://github.com/BraveUX/for-the-badge/)
-[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/ages-18.svg)](https://github.com/BraveUX/for-the-badge/)
-[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/made-with-c-plus-plus.svg)](https://github.com/BraveUX/for-the-badge/)
-[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/ctrl-c-ctrl-v.svg)](https://github.com/BraveUX/for-the-badge/)
-[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/designed-in-ms-paint.svg)](https://github.com/BraveUX/for-the-badge/)
-[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/fixed-bugs.svg)](https://github.com/BraveUX/for-the-badge/)
-[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/made-with-markdown.svg)](https://github.com/BraveUX/for-the-badge/)
-[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/not-a-bug-a-feature.svg)](https://github.com/BraveUX/for-the-badge/)
-[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/powered-by-water.svg)](https://github.com/BraveUX/for-the-badge/)
-[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/uses-git.svg)](https://github.com/BraveUX/for-the-badge/)
+[![forthebadge](https://github.com/FangCunWuChang/for-the-badge/blob/master/src/images/badges/built-with-love.svg)](https://github.com/FangCunWuChang/for-the-badge/)
+[![forthebadge](https://github.com/FangCunWuChang/for-the-badge/blob/master/src/images/badges/contains-cat-gifs.svg)](https://github.com/FangCunWuChang/for-the-badge/)
+[![forthebadge](https://github.com/FangCunWuChang/for-the-badge/blob/master/src/images/badges/ages-18.svg)](https://github.com/FangCunWuChang/for-the-badge/)
+[![forthebadge](https://github.com/FangCunWuChang/for-the-badge/blob/master/src/images/badges/made-with-c-plus-plus.svg)](https://github.com/FangCunWuChang/for-the-badge/)
+[![forthebadge](https://github.com/FangCunWuChang/for-the-badge/blob/master/src/images/badges/ctrl-c-ctrl-v.svg)](https://github.com/FangCunWuChang/for-the-badge/)
+[![forthebadge](https://github.com/FangCunWuChang/for-the-badge/blob/master/src/images/badges/designed-in-ms-paint.svg)](https://github.com/FangCunWuChang/for-the-badge/)
+[![forthebadge](https://github.com/FangCunWuChang/for-the-badge/blob/master/src/images/badges/fixed-bugs.svg)](https://github.com/FangCunWuChang/for-the-badge/)
+[![forthebadge](https://github.com/FangCunWuChang/for-the-badge/blob/master/src/images/badges/made-with-markdown.svg)](https://github.com/FangCunWuChang/for-the-badge/)
+[![forthebadge](https://github.com/FangCunWuChang/for-the-badge/blob/master/src/images/badges/not-a-bug-a-feature.svg)](https://github.com/FangCunWuChang/for-the-badge/)
+[![forthebadge](https://github.com/FangCunWuChang/for-the-badge/blob/master/src/images/badges/powered-by-water.svg)](https://github.com/FangCunWuChang/for-the-badge/)
+[![forthebadge](https://github.com/FangCunWuChang/for-the-badge/blob/master/src/images/badges/uses-git.svg)](https://github.com/FangCunWuChang/for-the-badge/)
 <image src ="https://komarev.com/ghpvc/?username=FangCunWuChang&style=for-the-badge&color=da69ac" width="170" height="36"/>
 
 ## Recommend Repos  
