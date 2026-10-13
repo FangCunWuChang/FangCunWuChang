@@ -26,7 +26,6 @@
 [![vcpkg](https://github-stats-extended.vercel.app/api/pin?username=FangCunWuChang&repo=microsoft%2Fvcpkg&show_owner=true&theme=dark_github_repocard)](https://github.com/microsoft/vcpkg)
 
 ## About Me  
-<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=FangCunWuChang&langs_count=8&theme=dark_github"/>
 
 - 🔭 I’m currently working on Harmonic Loom, which is a new virtual singer tuning platform.  
 - 🌱 I’m currently learning C/C++ and Lua.  
@@ -35,7 +34,7 @@
 - 📫 How to reach me: 3142324836@qq.com    [https://space.bilibili.com/161161623](https://space.bilibili.com/161161623)  
 
 <br><br>
-<img align="left" src="https://github-stats-extended.vercel.app/api?username=FangCunWuChang&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github"/>
+
 <p align="center">
    <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
@@ -60,3 +59,6 @@
    </a>
 </p>
 
+<br><br>
+![Ranks](https://github-stats-extended.vercel.app/api?username=FangCunWuChang&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=FangCunWuChang&langs_count=8&theme=dark_github)
