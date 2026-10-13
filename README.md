@@ -61,4 +61,4 @@
 
 <br><br>
 ![Ranks](https://github-stats-extended.vercel.app/api?username=FangCunWuChang&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=FangCunWuChang&langs_count=8&theme=dark_github)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=FangCunWuChang&langs_count=9&theme=dark_github)
