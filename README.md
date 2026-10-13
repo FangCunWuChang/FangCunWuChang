@@ -23,7 +23,7 @@
 [![libwthread](https://github-stats-extended.vercel.app/api/pin?username=FangCunWuChang&repo=FangCunWuChang%2Flibwthread&show_owner=true&theme=dark_github_repocard)](https://github.com/FangCunWuChang/libwthread)
 [![Audio-Processing-Tools](https://github-stats-extended.vercel.app/api/pin?username=FangCunWuChang&repo=Warsic%2FAudio-Processing-Tools&show_owner=true&theme=dark_github_repocard)](https://github.com/Warsic/Audio-Processing-Tools)
 [![MtF-wiki](https://github-stats-extended.vercel.app/api/pin?username=FangCunWuChang&repo=project-trans%2FMtF-wiki&show_owner=true&theme=dark_github_repocard)](https://github.com/project-trans/MtF-wiki)
-[![vcpkg](https://github-stats-extended.vercel.app/api/pin?username=FangCunWuChang&repo=microsoft%2Fvcpkg&show_owner=true&theme=dark_github_repocard)](https://github.com/microsoft/vcpkg)
+[![JUCE](https://github-stats-extended.vercel.app/api/pin?username=FangCunWuChang&repo=juce-framework%2FJUCE&show_owner=true&theme=dark_github_repocard)](https://github.com/juce-framework/JUCE)
 
 ## About Me  
 
